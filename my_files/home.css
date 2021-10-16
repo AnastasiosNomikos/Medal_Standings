@@ -1,0 +1,21 @@
+.box{
+    border: black;
+    border-style: solid;
+    width: fit-content;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+.box>h1{
+    text-align: center;
+}
+.box>p{
+    text-align: left;
+}
+#sport{
+     margin-left: 100px;
+}
+#country{
+    margin-left: 87px;
+}
